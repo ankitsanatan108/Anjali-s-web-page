@@ -1,0 +1,226 @@
+*{
+    padding: 0%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    height: 100px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(218, 59, 59);
+    font-weight: bolder;
+    text-shadow: 5px 0.5px 7px brown;
+}
+.flower{
+    height: 300px;
+    background-image: url(5.jpg);
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+}
+.music{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background-image: url(anjal3.jpg);
+    background-size: contain;
+}
+iframe{
+    margin-top: 10px;
+}
+.maincontent{
+    height: 700px;   
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(flower.jpg);
+    background-size: cover;
+}
+.circle{
+    height: 400px;
+    width: 400px;
+    
+    border: 5px solid skyblue;
+    border-right:5px solid pink;
+    border-left:5px solid pink;
+    border-radius: 50%;
+    margin: 120px;
+    background-image: url(anjali5.jpg);
+    background-size: cover;
+}
+.wish{
+    height:400px;
+    width: 700px;
+    margin-right: 50px;
+    border: 5px solid skyblue;
+    border-right: 5px solid pink;
+    border-left: 5px solid pink;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+}
+p{
+    color: black;
+    text-align: center;
+    font-weight:bold;
+    font-size: 25px;
+    text-shadow: 3px 1.5px 6px pink;
+}
+/**link area**/
+.photos{
+    
+    margin-top: 10px;
+    border: 2px solid gray;
+    background-image: url(anjal8.jpg);
+    background-size: cover;
+}
+#t1{
+    margin-top: 50px;
+    color: blueviolet;
+    font-size: 30px;
+    background-color: white;
+    font-weight: bolder;
+    text-align: center;
+    
+   
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.ph1{
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    border: 4px solid skyblue;
+    display: inline-block;
+    background-image: url(anjali2.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.ph2{
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    border: 4px solid pink;
+    display: inline-block;
+    background-image: url(anjali15.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.ph3{
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    display: inline-block;
+    border: 4px solid yellow;
+    background-image: url(anjalic_12.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.ph4{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid pink;
+    background-image: url(anjalic_10.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph5{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid yellow;
+    background-image: url(anjali7.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph6{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid skyblue;
+    background-image: url(anjali5.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph7{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid yellow;
+    background-image: url(anjalic_12.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph8{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid skyblue;
+    background-image: url(anjalic_9.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph9{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid pink;
+    background-image: url(anjali7.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph10{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid skyblue;
+    background-image: url(anjali6.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph11{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid pink;
+    background-image: url(anjali1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
+.ph12{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    border: 4px solid yellow;
+    background-image: url(anjalic13.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 50px;
+}
